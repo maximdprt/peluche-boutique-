@@ -1,0 +1,9 @@
+node_modules
+.next
+.medusa
+dist
+build
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts

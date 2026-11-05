@@ -1,0 +1,45 @@
+/* Haute Tension : design tokens, source unique des couleurs, typos, espacements, rayons et ombres. */
+@theme {
+  --color-bg: #fafaf7;
+  --color-surface: #ffffff;
+  --color-ink: #14141a;
+  --color-ink-soft: #55555f;
+  --color-accent: #ff5a1f; /* Toujours avec du texte encre : blanc = 3,1:1, encre = 5,9:1 */
+  --color-accent-soft: #ffe9df;
+  --color-yellow: #ffd84d;
+  --color-sky: #ddf3ff;
+  --color-danger: #b3261e;
+  --color-success: #146c43;
+
+  /* Univers de collection, à ajuster selon les chartes fournies */
+  --color-nuit: #0b1e4b;
+  --color-nuit-silver: #c9d1dc;
+  --color-nuit-red: #e4002b;
+  --color-nuit-yellow: #ffcc00;
+  --color-neon: #0a0a0a;
+  --color-neon-green: #39ff14;
+
+  --font-display: var(--font-archivo-black), "Arial Black", Impact, sans-serif;
+  --font-body: var(--font-inter), system-ui, sans-serif;
+
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 3px 3px 0 var(--color-ink);
+  --shadow-md: 6px 6px 0 var(--color-ink);
+  --shadow-lg: 10px 10px 0 var(--color-ink);
+}
+
+:root {
+  --border: 2px solid var(--color-ink);
+  --title-sm: clamp(20px, 2.2vw, 26px);
+  --title-md: clamp(30px, 4.4vw, 52px);
+  --title-lg: clamp(42px, 7.6vw, 104px);
+  --section: clamp(48px, 7vw, 96px);
+  --gutter: clamp(16px, 3vw, 40px);
+  --page: 1440px;
+  --spring: cubic-bezier(.34, 1.56, .64, 1);
+  --fast: 220ms;
+}
