@@ -1,0 +1,15 @@
+{
+  "name": "canettou-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Site vitrine et boutique statique de peluches canettes",
+  "scripts": {
+    "images": "node scripts/process-images.mjs",
+    "build": "node site/build.mjs",
+    "dev": "node site/build.mjs && npx --yes serve public -l 4321"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

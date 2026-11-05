@@ -1,0 +1,156 @@
+[
+  {
+    "source": "peluche_redbull_rose.jpeg",
+    "peluche": "edition-rose",
+    "vue": "face",
+    "largeur": 1254,
+    "hauteur": 1254,
+    "fichiers": {
+      "master": "peluche-edition-rose-face-1.webp",
+      "poids_master_ko": 111,
+      "carte": "peluche-edition-rose-face-1-600.webp",
+      "miniature": "peluche-edition-rose-face-1-300.webp",
+      "og": "peluche-edition-rose-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_redbull_blanche.jpeg",
+    "peluche": "edition-coco",
+    "vue": "face",
+    "largeur": 1254,
+    "hauteur": 1254,
+    "fichiers": {
+      "master": "peluche-edition-coco-face-1.webp",
+      "poids_master_ko": 89,
+      "carte": "peluche-edition-coco-face-1-600.webp",
+      "miniature": "peluche-edition-coco-face-1-300.webp",
+      "og": "peluche-edition-coco-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_redbull_bleu.jpeg",
+    "peluche": "edition-hiver",
+    "vue": "face",
+    "largeur": 1254,
+    "hauteur": 1254,
+    "fichiers": {
+      "master": "peluche-edition-hiver-face-1.webp",
+      "poids_master_ko": 124,
+      "carte": "peluche-edition-hiver-face-1-600.webp",
+      "miniature": "peluche-edition-hiver-face-1-300.webp",
+      "og": "peluche-edition-hiver-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_redbull.jpeg",
+    "peluche": "edition-classique",
+    "vue": "face",
+    "largeur": 1254,
+    "hauteur": 1254,
+    "fichiers": {
+      "master": "peluche-edition-classique-face-1.webp",
+      "poids_master_ko": 83,
+      "carte": "peluche-edition-classique-face-1-600.webp",
+      "miniature": "peluche-edition-classique-face-1-300.webp",
+      "og": "peluche-edition-classique-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_vert.jpeg",
+    "peluche": "ultra-verte",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-verte-face-1.webp",
+      "poids_master_ko": 73,
+      "carte": "peluche-ultra-verte-face-1-600.webp",
+      "miniature": "peluche-ultra-verte-face-1-300.webp",
+      "og": "peluche-ultra-verte-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_violet.jpeg",
+    "peluche": "ultra-violette",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-violette-face-1.webp",
+      "poids_master_ko": 89,
+      "carte": "peluche-ultra-violette-face-1-600.webp",
+      "miniature": "peluche-ultra-violette-face-1-300.webp",
+      "og": "peluche-ultra-violette-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_bleu.jpeg",
+    "peluche": "ultra-bleue",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-bleue-face-1.webp",
+      "poids_master_ko": 78,
+      "carte": "peluche-ultra-bleue-face-1-600.webp",
+      "miniature": "peluche-ultra-bleue-face-1-300.webp",
+      "og": "peluche-ultra-bleue-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_rose.jpeg",
+    "peluche": "ultra-rose",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-rose-face-1.webp",
+      "poids_master_ko": 59,
+      "carte": "peluche-ultra-rose-face-1-600.webp",
+      "miniature": "peluche-ultra-rose-face-1-300.webp",
+      "og": "peluche-ultra-rose-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_blanc.jpeg",
+    "peluche": "ultra-blanche",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-blanche-face-1.webp",
+      "poids_master_ko": 48,
+      "carte": "peluche-ultra-blanche-face-1-600.webp",
+      "miniature": "peluche-ultra-blanche-face-1-300.webp",
+      "og": "peluche-ultra-blanche-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_organge.jpeg",
+    "peluche": "ultra-orange",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-orange-face-1.webp",
+      "poids_master_ko": 74,
+      "carte": "peluche-ultra-orange-face-1-600.webp",
+      "miniature": "peluche-ultra-orange-face-1-300.webp",
+      "og": "peluche-ultra-orange-face-1-og.jpg"
+    }
+  },
+  {
+    "source": "peluche_monster_noir.jpeg",
+    "peluche": "ultra-noire",
+    "vue": "face",
+    "largeur": 1024,
+    "hauteur": 1024,
+    "fichiers": {
+      "master": "peluche-ultra-noire-face-1.webp",
+      "poids_master_ko": 66,
+      "carte": "peluche-ultra-noire-face-1-600.webp",
+      "miniature": "peluche-ultra-noire-face-1-300.webp",
+      "og": "peluche-ultra-noire-face-1-og.jpg"
+    }
+  }
+]
